@@ -19,6 +19,7 @@ struct PlaceSearchView: View {
                 .background(Color(.systemGray6))
                 .cornerRadius(10)
                 .padding(.horizontal)
+                .submitLabel(.done)
                 .onSubmit {
                     navigationPath.append(AppNavigation.forecastPlace)
                 }
