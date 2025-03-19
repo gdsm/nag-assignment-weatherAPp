@@ -1,0 +1,3 @@
+[submodule "sharedModuleAssignment"]
+	path = sharedModuleAssignment
+	url = https://github.com/gdsm/sharedModuleAssignment.git
